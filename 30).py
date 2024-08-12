@@ -1,0 +1,1 @@
+30)How will you compare two lists?

@@ -1,0 +1,1 @@
+71)What is File function in python? What are keywords to create and write file.
