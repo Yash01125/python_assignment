@@ -1,4 +1,4 @@
-#65)How Many Basic Types of Functions Are Available in Python?
+#65)How Many Basic  Types of Functions Are Available in Python?
 
 # --> These are pre-defined functions provided by Python.
 #

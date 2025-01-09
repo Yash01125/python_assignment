@@ -1,4 +1,4 @@
-# 84)How many except statements can a try-except block have? Name Some built-in exception classes:
+# 84) How many except statements can a try-except block have? Name Some built-in exception classes:
 #
 # --> In Python, a try-except block can have multiple except statements to handle different types of exceptions.
 #

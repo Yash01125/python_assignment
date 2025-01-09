@@ -1,4 +1,4 @@
-#62)Write a Python function to check whether a number is in a given range
+#62)Write a  Python function to check whether a number is in a given range
 
 def re(number, start, end):
     return start <= number <= end

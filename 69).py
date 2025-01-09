@@ -1,4 +1,4 @@
-#69)How will you set the starting value in generating random numbers?
+#69)How  will you set the starting value in generating random numbers?
 
 # --> use the random.seed() function. Setting a seed ensures that the sequence of random numbers
 # generated is reproducible.

@@ -1,4 +1,4 @@
-#63)Write a Python function to check whether a number is perfect or not.
+#63)Write a  Python function to check whether a number is perfect or not.
 
 def number(n):
     if n <= 0:

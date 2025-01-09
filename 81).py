@@ -1,4 +1,4 @@
-#81)Write a Python program to write a list to a file.
+#81) Write a Python program to write a list to a file.
 
 def write_list(file_path, data_list):
     with open(file_path, "w") as file:

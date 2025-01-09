@@ -1,4 +1,4 @@
-# 70) How will you randomize the items of a list in place?
+# 70) How  will you randomize the items of a list in place?
 #
 # --> To randomize (shuffle) the items of a list in place in Python, you can use the random.
 #     shuffle() function from the random module.

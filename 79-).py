@@ -1,1 +1,1 @@
-#79)Write a Python program to count the number of lines in a text file.
+#79) Write a Python program to count the number of lines in a text file.

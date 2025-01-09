@@ -1,4 +1,4 @@
-#82)Write a Python program to copy the contents of a file to another file.
+#82) Write a Python program to copy the contents of a file to another file.
 
 # def copy_file(source_path, destination_path):
 #     with open(source_path, "r") as source_file:

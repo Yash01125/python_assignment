@@ -1,4 +1,4 @@
-#78)Write a python program to find the longest words.
+#78) Write a python program to find the longest words.
 
 def find_word(text):
     words = text.split()

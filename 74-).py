@@ -1,1 +1,1 @@
-#74)Write a Python program to read first n lines of a file.
+#74) Write a Python program to read first n lines of a file.
